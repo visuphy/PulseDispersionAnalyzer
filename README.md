@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Screenshot of the Pulse Dispersion Analyzer](static/Screenshot.png)
+![Screenshot of the Pulse Dispersion Analyzer](static/Screenshot.webp)
 
 ## Overview
 
